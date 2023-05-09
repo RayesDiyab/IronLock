@@ -5,3 +5,8 @@ The Arduino utilizes a I2C Keypad, I2C Display, Adafruit Fingerprint Scanner, a 
 to use in various ways.
 
 I provided a Sketch of the connection diagram as well
+
+
+
+
+Rayes
